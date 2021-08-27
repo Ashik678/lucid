@@ -1,1 +1,1 @@
-# https://ashik678.github.io/lucid/
+# https://lucid/
